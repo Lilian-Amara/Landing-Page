@@ -1,0 +1,120 @@
+body{
+    margin:0;
+}
+.nav-bar{
+    padding-inline: 30%;
+}
+.nav-bar a{
+    padding-inline:15px;
+    text-decoration: none;
+    color:black;
+}
+.nav-5{
+    font-weight: bold;
+}
+a:hover{
+    color:brown;
+}
+.hero-section{
+    background-image: url(/images/black\ nd\ white\ valley\ 2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100vh;
+    padding-inline: 15px;
+    object-fit: top;
+    object-position: center 90%;
+}
+
+.main-hero h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 10vh;
+
+}.main-hero h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:bolder;
+    font-size: 20vh;
+    margin-top: -80px;
+    margin-bottom: -30px;
+}
+.main-hero h5{
+    font-weight: lighter;
+    font-size: 23px;
+}
+.btn-1{
+    padding-right:2%;
+    padding-left:2%;
+    padding-top:0.5%;
+    padding-bottom:0.5%;
+    background-color: black;
+    color:white;
+    font-size:x-small;
+    border-color: transparent;
+}
+.link-1{
+    color:black;
+    font-weight: 100;  
+}
+.location{
+    font-size: 10px;
+    background-color: black;
+    color: white;
+    width:200px;
+    justify-content: center;
+    letter-spacing: 2px;
+    display: flex;
+    position: absolute;
+    bottom:1px;
+    right:5px;
+}
+
+h4{
+    font-weight: bolder;
+    font-size: 15px;
+}
+h5{
+    font-weight: lighter;
+    font-size:medium;
+}
+.flex-container-2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.flex-item{
+    font-weight: bolder;
+    font-size: medium;
+    padding:1%;
+    display: flex;
+    flex-direction: row ;
+    justify-content:space-between;
+}
+.flex-item h5{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+}
+.link-2{
+    color:black;
+    font-weight:100;
+}
+.flex-container-3{
+    background-color:whitesmoke;
+}
+.flex-item-2{
+    display: flex;
+    flex-direction: row;
+    font-weight: bolder;
+}
+.CTA-container{
+    border:1px solid red;
+    background-color: white;
+    width: 35%;
+    height:40vh;
+    margin:3px;
+    text-align: center;
+}
+.footer-section-1 a{
+    text-decoration: none;
+    color:black;
+}
